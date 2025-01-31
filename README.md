@@ -6,7 +6,7 @@ Method for SAFE Uninstalling CFW-Boot9 on Nintendo 3DS using Godmode9.
 - The script, if the test is optimal, will reset the Ctrnand so that anything previous is restored to its original state.
 - You can view and edit from Visual Studio Code.
 - #TeAmoKelonio
-
+- Video Guide: [https://youtube.com/watch?v=3kaKZRm0nAw](https://www.youtube.com/watch?v=F9593kcLHQE&t=337s)
 ______________________________
 
 # EliminarHACK.gm9 
@@ -17,3 +17,4 @@ Método de Desinstalación SEGURA de CFW-Boot9 en Nintendo 3DS mediante Godmode9
 - El script, si el test es óptimo, restablecerá el Ctrnand para que cualquier cosa previa sea restaurada a su estado original.
 - Puede visualizar y editar desde Visual Studio Code.
 - #TeAmoKelonio
+- Vídeo Guía: [https://youtube.com/watch?v=3kaKZRm0nAw](https://www.youtube.com/watch?v=F9593kcLHQE&t=337s)
