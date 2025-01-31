@@ -14,6 +14,6 @@ Método de Desinstalación SEGURA de CFW-Boot9 en Nintendo 3DS mediante Godmode9
 - Revisión 2025
 - Se recuerda que la eliminación del CFW es totalmente innecesaria y nunca arreglará ningún problema en la consola, en la sd, en los juegos, en los programas ni en los errores de hardware. 
 - El script permite realizar una comprobación de seguridad para verificar que la consola admite la eliminación. De ser negativo el test, NO prosiga o causará Brick.
-- El script, si el test es óptimo, restablecerá el Ctrnand para que cualquier cosa previa sea restaurada a su estado original. 
+- El script, si el test es óptimo, restablecerá el Ctrnand para que cualquier cosa previa sea restaurada a su estado original.
 - Puede visualizar y editar desde Visual Studio Code.
 - #TeAmoKelonio
